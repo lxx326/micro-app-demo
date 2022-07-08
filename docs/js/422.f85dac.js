@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_icedesign_ice_antd_scaffold=self.webpackChunk_icedesign_ice_antd_scaffold||[]).push([[422],{51422:function(e,n,c){c.r(n),c.d(n,{default:function(){return d}});var i=c(85893);function d(){return(0,i.jsx)("div",{children:(0,i.jsx)("h2",{children:"Dashboard page"})})}}}]);
